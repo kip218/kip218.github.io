@@ -13,6 +13,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.3.0"
 
 # This is the default theme.
+gem "freelancer"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
